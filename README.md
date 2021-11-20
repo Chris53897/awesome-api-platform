@@ -48,4 +48,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 ### Gists
 *Gists / Code-Snippets *
 
+* [Skip Null-Values for all Entities](https://gist.github.com/Chris53897/24275929277bef3be7cd447865a4ac90)
+
+
 Please help to fill this section.

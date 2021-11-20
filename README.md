@@ -11,11 +11,11 @@ There are useful [Code-Snippets](#Gists) (in Slack and other resources) that are
 Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md) and [COLLABORATING](COLLABORATING.md) for details.
 
 ## Table of Contents
-- [Awesome API-Platform Bundles](#Awesome API Platform Bundles)
-- [Example Applications](#Example Applications)
+- [Awesome API-Platform Bundles](#awesome-api-platform-bundles)
+- [Example Applications](#example-applications)
 - [Gists](#Gists)
 
-### Awesome API Platform Bundles
+### awesome-api-platform-bundles
 *Awesome API-Platform Bundles*
 
 * [API Platform Extra](https://github.com/krakphp/api-platform-extra) - additional features or bug fixes for API Platform (up-to-date?)
@@ -26,7 +26,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 * [API as a Service](https://github.com/christiansiewert/aaas-api) - API as a Service - API
 * [DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean Bundle for Symfony and API Platform
 
-*CQRS / Messanger*
+*CQRS / Messenger*
 
 * [DDD + CQRS + Event Sourcing](https://github.com/Lctrs/apiplatform-ddd-cqrs-es-demo) - DDD + CQRS + Event Sourcing + API Platform
 * [DDD + CQRS Boilerplate](https://github.com/mxkh/symfony-api-platform-ddd-cqrs-boilerplate) - Sample Symfony REST API CQRS implementation with API Platform and DDD using Clean Architecture
@@ -34,11 +34,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 
 *Boilerplate*
 
-* [DunglasDigitalOceanBundle](https://github.com/tpharaoh/apiplatformtemplate) - A starter pack docker setup for Mercure, Scoped Entities, Vue Front End, APIPlatform
+* [API Platform Template](https://github.com/tpharaoh/apiplatformtemplate) - A starter pack docker setup for Mercure, Scoped Entities, Vue Front End, APIPlatform
 * [Symfony 5 & ReactJS boilerplate](https://github.com/jonathangreco/APIplatform-react-admin-traefik-boilerplate) - Symfony 5 & ReactJS boilerplate (experimental)
 * [VueJS boilerplate](https://github.com/neiluJ/api-vue-boilerplate) - VueJS boilerplate (up-to-date?)
 
-### Example Applications
+### example-applications
 *Example Applications*
 
 * [JWT-User-Auth](https://github.com/AhmedRaafat14/apiplatform-users-auth) - Simple JWT auth with API Platform
@@ -46,7 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 * [API-CRM](https://github.com/Louxen/api-crm) - Demo for React Frontend with API-Platform Backend
 
 ### Gists
-*Gists / Code-Snippets *
+*Gists / Code-Snippets*
 
 * [Skip Null-Values for all Entities](https://gist.github.com/Chris53897/24275929277bef3be7cd447865a4ac90)
 

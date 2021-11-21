@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 - [Awesome API-Platform Bundles](#awesome-api-platform-bundles)
 - [Example Applications](#example-applications)
 - [Gists](#gists)
+- [Blog / Websites](#blog-websites)
 
 ### awesome-api-platform-bundles
 *Awesome API-Platform Bundles*
@@ -51,5 +52,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 
 * [Skip Null-Values for all Entities](https://gist.github.com/Chris53897/24275929277bef3be7cd447865a4ac90)
 
-
 Please help to fill this section.
+
+### blog-websites
+*Blog / Websites*
+
+* [Edge-Side-APIs](https://speakerdeck.com/dunglas/edge-side-apis) API-Platform 3.x

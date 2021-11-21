@@ -13,7 +13,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 ## Table of Contents
 - [Awesome API-Platform Bundles](#awesome-api-platform-bundles)
 - [Example Applications](#example-applications)
-- [Gists](#Gists)
+- [Gists](#gists)
 
 ### awesome-api-platform-bundles
 *Awesome API-Platform Bundles*
@@ -41,6 +41,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 ### example-applications
 *Example Applications*
 
+* [Official demo](https://github.com/api-platform/demo/) - The official API-Platform demo (API + PWA/Next.js + react-admin)
 * [JWT-User-Auth](https://github.com/AhmedRaafat14/apiplatform-users-auth) - Simple JWT auth with API Platform
 * [Typescript-Library](https://github.com/darkanakin41/typescript-api-platform) - A typescript API Platform library
 * [API-CRM](https://github.com/Louxen/api-crm) - Demo for React Frontend with API-Platform Backend

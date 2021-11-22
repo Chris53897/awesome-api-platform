@@ -27,6 +27,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 * [DTO-Hydrator](https://github.com/omarfawzi/DTO-Hydrator) - Dynamic Hydration for DTO's used by Transformers in API Platform v2
 * [API as a Service](https://github.com/christiansiewert/aaas-api) - API as a Service - API
 * [DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean Bundle for Symfony and API Platform
+* [CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - ForgotPassword Bundle for Symfony and API Platform
 
 *CQRS / Messenger*
 

@@ -1,7 +1,7 @@
-# Awesome API-Platform
-A curated list of API-Platform libraries, resources and shiny things. 
+# Awesome API Platform
+A curated list of API Platform libraries, resources and shiny things.
 
-Thanks to all the developers of [API-Platform](https://www.api-platform.com).
+Thanks to all the developers of [API Platform](https://www.api-platform.com).
 There are some things that are not covered in the docs and probably never will.
 The goal of this repo is to gather all the cool and helpfully additional stuff.
 
@@ -11,18 +11,19 @@ There are useful [Code-Snippets](#Gists) (in Slack and other resources) that are
 Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md) and [COLLABORATING](COLLABORATING.md) for details.
 
 ## Table of Contents
-- [Awesome API-Platform Bundles](#awesome-api-platform-bundles)
+- [Awesome API Platform Bundles](#awesome-api-platform-bundles)
 - [Example Applications](#example-applications)
 - [Gists](#gists)
 - [Blog / Websites](#blog-websites)
 
 ### awesome-api-platform-bundles
-*Awesome API-Platform Bundles*
+*Awesome API Platform Bundles*
 
-* [API Platform Extra](https://github.com/krakphp/api-platform-extra) - additional features or bug fixes for API Platform (up-to-date?)
-* [API-Platform Microservice Bundle](https://github.com/mtarld/api-platform-ms-bundle) - Orchestrate Microservices with API Platform
+* [API Platform Extra](https://github.com/krakphp/api-platform-extra) - Additional features or bug fixes for API Platform (up-to-date?)
+* [API Platform Microservice Bundle](https://github.com/mtarld/api-platform-ms-bundle) - Orchestrate Microservices with API Platform
 * [FilterBundle](https://github.com/metaclass-nl/filter-bundle/) - Filter logic for API Platform
 * [Sort, Filter and Pagination on custom data](https://github.com/aratinau/api-platform-pagination) - API Platform Sort, Filter and Pagination on custom data
+* [ApiRateLimitBundle](https://github.com/IndraGunawan/api-rate-limit-bundle) - Provide rate limits protection for API Platform resources
 * [DTO-Hydrator](https://github.com/omarfawzi/DTO-Hydrator) - Dynamic Hydration for DTO's used by Transformers in API Platform v2
 * [API as a Service](https://github.com/christiansiewert/aaas-api) - API as a Service - API
 * [DunglasDigitalOceanBundle](https://github.com/dunglas/DunglasDigitalOceanBundle) - DigitalOcean Bundle for Symfony and API Platform
@@ -35,17 +36,17 @@ Please see [CONTRIBUTING](CONTRIBUTING.md), [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md
 
 *Boilerplate*
 
-* [API Platform Template](https://github.com/tpharaoh/apiplatformtemplate) - A starter pack docker setup for Mercure, Scoped Entities, Vue Front End, APIPlatform
+* [API Platform Template](https://github.com/tpharaoh/apiplatformtemplate) - A starter pack docker setup for Mercure, Scoped Entities, Vue Front End, API Platform
 * [Symfony 5 & ReactJS boilerplate](https://github.com/jonathangreco/APIplatform-react-admin-traefik-boilerplate) - Symfony 5 & ReactJS boilerplate (experimental)
 * [VueJS boilerplate](https://github.com/neiluJ/api-vue-boilerplate) - VueJS boilerplate (up-to-date?)
 
 ### example-applications
 *Example Applications*
 
-* [Official demo](https://github.com/api-platform/demo/) - The official API-Platform demo (API + PWA/Next.js + react-admin)
+* [Official demo](https://github.com/api-platform/demo/) - The official API Platform demo (API + PWA/Next.js + react-admin)
 * [JWT-User-Auth](https://github.com/AhmedRaafat14/apiplatform-users-auth) - Simple JWT auth with API Platform
 * [Typescript-Library](https://github.com/darkanakin41/typescript-api-platform) - A typescript API Platform library
-* [API-CRM](https://github.com/Louxen/api-crm) - Demo for React Frontend with API-Platform Backend
+* [API-CRM](https://github.com/Louxen/api-crm) - Demo for React Frontend with API Platform Backend
 
 ### Gists
 *Gists / Code-Snippets*
@@ -57,4 +58,4 @@ Please help to fill this section.
 ### blog-websites
 *Blog / Websites*
 
-* [Edge-Side-APIs](https://speakerdeck.com/dunglas/edge-side-apis) API-Platform 3.x
+* [Edge-Side-APIs](https://speakerdeck.com/dunglas/edge-side-apis) API Platform 3.x
